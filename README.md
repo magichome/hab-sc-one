@@ -2,8 +2,11 @@
 Definition: SCHab - _Shipping Container Habitat_
 
 ### Description
-
 This is an effort to design a self-contained habitat based on a standard 40' HC Shipping Container.  It's more than just a drawing.  I plan to research, document, and design each subsystem that goes into building such a habitat: electrical, plumbing, hvac, etc.
+
+![Exterior View](images/schab-exterior-all.png)
+
+![Interior View](images/schab-interior-all.png)
 
 ### Background
 In order to explain why we're doing this, let me share a little background.  Currently we live in a small RV*.  We travel around the country as required by work or inclination.  While we've been doing this for about 4 years, I know we won't be doing it forever.  I can see a point when we'll want to spend time in a single location for part of the year.  Maybe at first a mixture of RV living and settled living.  Later probably more toward settled living.
@@ -23,6 +26,31 @@ Either of these could work but they are generally not self container.  They need
 Security is also a consideration.  Since we may only occupy our SCHab a few months out of the year, we want it to be as secure as possible while we're gone.  While nothing will keep out a determined bugler with the proper tools, a shipping container will be harder to break into than any trailer.  A shipping container will also stand up to harsh weather better.
 
 And besides, this planning and construction is fun!
+
+### Features
+Since this is a work-in-progress the features are evolving.  Since we're use to living in our RV, some of these choices were informed by things that are working for us now.  Here's what I have so far:
+* Completely contained in a 40' HC double-door shipping container.
+* Single sleep area with queen size mattress
+* Porch area for covered outdoor seating
+* 7' x 15' garage area for a vehicle or outdoor toys
+* Solar or wind electric with battery storage and AC inverter
+* Single unit washer / dryer
+* Marine refrigerator / freezer (12vdc)
+* Oven / Stove / Microwave
+* On-demand water heater (propane)
+* Waterless toilet
+* Storage tank for rainwater harvesting
+
+### Getting Started
+Drawing were made using [SketchUp](https://www.sketchup.com/).  The "free for non-commerical use" version, called SketchUp Make, can be downloaded at https://www.sketchup.com/download.  If you want to look at the drawings, you'll want to download and install SketchUp.
+
+You'll want a local copy of this repository with all of the design files.  If you have GIT, you can clone the repository in the usual way.  If you have no idea what that means, you can download a zip archive by selecting the "Clone or Download" button above.
+
+### Project Resources
+
+| Location | Use |
+| -------- | ------- |
+| [Trello Board](https://trello.com/b/0bdXyXfJ) | Here you can check on tasks I've identified and my status on those tasks. |
 
 ### Disclaimer
 
