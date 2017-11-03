@@ -21,7 +21,7 @@ Third, even though we plan to buy land for SCHab, its unlikely we'll want keep i
 
 **Why not a single-wide or 5th wheel trailer?**
 
-Either of these could work but they are generally not self container.  They need water, sewer and electrical hookup.  The kind of land we're considering is generally off-grid and far from public utilities.  Electric could be brought in but that drives up the cost.  Adding a well and septic system also drive up the cost.  Minimal cost is one of our design goals.
+Either of these could work but they are generally not self container.  They need water, sewer and electrical hookup.  The kind of land we're considering is generally off-grid and far from public utilities.  Electric could be brought in but that drives up the cost.  Adding a well and septic system also drives up the cost.  Minimal cost is one of our design goals.
 
 Security is also a consideration.  Since we may only occupy our SCHab a few months out of the year, we want it to be as secure as possible while we're gone.  While nothing will keep out a determined bugler with the proper tools, a shipping container will be harder to break into than any trailer.  A shipping container will also stand up to harsh weather better.
 
@@ -41,9 +41,10 @@ Since this is a work-in-progress the features are evolving.  Since we're use to 
 * Radiant heat
 * Waterless toilet
 * Storage tank for rainwater harvesting
+* Provisions for a second story for those who need more space
 
 ### Getting Started
-Drawing were made using [SketchUp](https://www.sketchup.com/).  The "free for non-commerical use" version, called SketchUp Make, can be downloaded at https://www.sketchup.com/download.  If you want to look at the drawings, you'll want to download and install SketchUp.
+Drawing were made using [SketchUp](https://www.sketchup.com/).  The "free for non-commerical use" version, called SketchUp Make, can be downloaded at https://www.sketchup.com/download.  If you want to look at the drawings, you'll need to download and install SketchUp.
 
 You'll want a local copy of this repository with all of the design files.  If you have GIT, you can clone the repository in the usual way.  If you have no idea what that means, you can download a zip archive by selecting the "Clone or Download" button above.
 
@@ -57,6 +58,10 @@ You'll want a local copy of this repository with all of the design files.  If yo
 
 I am not an architect or engineer.  I didn't even stay at a Holiday Inn Express last night.  My background is science and IT.  While I'm aware of many building codes, I won't claim that any of what I have here is proper or up to code.  Frankly since this is "temporary housing", I'm not even sure what building codes apply.  Since my plan is to locate our SCHab in unincorporated areas, I'm not too concerned about it.  Obviously if you plan to build one yourself you'll want to understand the CC&R of the land you purchase and the building codes of the community.
 
+Also, products we mention may link to Amazon.  As such, Amazon requires that we tell you the following:
+
+"We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.”
+
 --
 
-\* You can read more about the RV on our blog (https://www.b190exp.com/) or follow us on [Instagram](https://www.instagram.com/b190exp/)
+\* You can read more about the RV on our blog (https://www.b190exp.com/) and follow us on [Instagram](https://www.instagram.com/b190exp/)
