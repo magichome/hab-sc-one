@@ -48,10 +48,16 @@ Drawing were made using [SketchUp](https://www.sketchup.com/).  The "free for no
 
 You'll want a local copy of this repository with all of the design files.  If you have GIT, you can clone the repository in the usual way.  If you have no idea what that means, you can download a zip archive by selecting the "Clone or Download" button above.
 
+Some of the analysis is done using Microsoft Excel worksheets.  If you don't have Excel you can use the free office suite [Libre Office](https://www.libreoffice.org/).
+
 ### Project Resources
 
-| Location | Use |
+| Link | Purpose |
 | -------- | ------- |
+| [Research](Research/Research.md) | Information captured from research into various aspects of the project. |
+| [Requirements](Requirements/Requirements.md) | Capture requirements for SCHab and its various subsystems. |
+| [Design](SketchUp/Design.md) | 3D drawings |
+| [Construction](Construction/Construction.md) | Information about construction considerations. |
 | [Trello Board](https://trello.com/b/0bdXyXfJ) | Here you can check on tasks I've identified and my status on those tasks. |
 
 ### Disclaimer
