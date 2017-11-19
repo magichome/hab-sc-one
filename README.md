@@ -2,7 +2,7 @@
 Definition: SCHab - _Shipping Container Habitat_
 
 ### Description
-This is an effort to design a self-contained habitat based on a standard 40' HC Shipping Container.  It's more than just a drawing.  I plan to research, document, and design each subsystem that goes into building such a habitat: electrical, plumbing, hvac, etc.
+This is an effort to design a self-contained habitat based on a standard 40' HC Shipping Container.  It's more than just a drawing.  I plan to research, document, and design each subsystem that goes into building such a habitat: electrical, plumbing, hvac, etc.  Then I plan to build one.
 
 ![Exterior View](images/schab-exterior-all.png)
 
@@ -58,6 +58,7 @@ Some of the analysis is done using Microsoft Excel worksheets.  If you don't hav
 | [Requirements](Requirements/Requirements.md) | Capture requirements for SCHab and its various subsystems. |
 | [Design](SketchUp/Design.md) | 3D drawings |
 | [Construction](Construction/Construction.md) | Information about construction considerations. |
+| [Control](Control/Control.md) | Monitoring and control system. |
 | [Trello Board](https://trello.com/b/0bdXyXfJ) | Here you can check on tasks I've identified and my status on those tasks. |
 
 ### Disclaimer
